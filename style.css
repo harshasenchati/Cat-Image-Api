@@ -1,0 +1,29 @@
+body{
+  background-color: antiquewhite;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  background-color: aquamarine;
+  border: 2px solid black ;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+button{
+  font-size: 1.2rem;
+  border: 2px solid lightseagreen;
+  background-color:#edffd9 ;
+  color: black;
+  font-weight: 550;
+  border-radius: 4px;
+  padding: 3px 3px;
+}
+#btn-aligner{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+}
+.maindiv{
+  display: flex;
+  flex-wrap: wrap;
+}
