@@ -18,7 +18,6 @@
 - [💻 Technologies Used](#technologies-used)
 - [⚙️ Setup](#setup)
 - [🚀 Usage](#usage)
-- [📷 Screenshots](#screenshots)
 - [📜 License](#license)
 
 ## Introduction
