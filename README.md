@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/harshasenchati/Cat-Image-Api/blob/main/cat-image-api-demo.gif" alt="Demo GIF">
+  <img src="https://github.com/harshasenchati/Cat-Image-Api/blob/main/cat-record.gif">
 </div>
 
 ---
