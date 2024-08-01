@@ -57,8 +57,9 @@ npm install
   ```bash
 npm start
 ```
+This command will start the development server. Your browser should automatically open to http://localhost:3000. If it doesn’t, you can manually navigate to this URL in your browser.
 ## Usage
-After following the setup steps, you can open your browser and navigate to http://localhost:3000 to view and interact with Cat-Image-Api application.
+After following the setup steps, open your browser and navigate to http://localhost:3000 to view and interact with the Cat-Image-Api application.
 
 ## License
 This project is licensed under the MIT License.
